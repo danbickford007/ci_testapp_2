@@ -1,0 +1,5 @@
+rupert:
+  type: 'ruby'
+  framework: 'rails'
+  database: 'postgres'
+  command: 'rspec spec'
